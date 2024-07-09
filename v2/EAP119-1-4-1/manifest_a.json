@@ -112,8 +112,8 @@
                     "label": "9",
                     "otherContent": [
                         {
-                            "@id": "https://tillgrallert.github.io/test-iiif/v2/annotations/oclc_4770057679-i_13-p_9.annotation.json",
-                            "@type": "sc:Annotation",
+                            "@id": "https://tillgrallert.github.io/test-iiif/v2/annotations/oclc_4770057679-i_13-p_9.annotationList.json",
+                            "@type": "sc:AnnotationList",
                             "label": "p9"
                         }
                     ],
