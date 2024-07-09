@@ -1,16 +1,18 @@
 {
-  "@context" : "http://iiif.io/api/search/0/context.json",
-  "@id": "https://tillgrallert.github.io/test-iiif/v2/annotations/oclc_4770057679-i_13-p_9.annotation.json",
-  "@type": "sc:AnnotationList",
-  "resources" : [ {
-    "@id" : "https://tillgrallert.github.io/test-iiif/oclc_4770057679-i_13-p_9.TEIP5.annotation.json/anno-9",
-    "@type" : "oa:Annotation",
-    "motivation" : "sc:painting",
-    "on" : "https://eap.bl.uk/archive-file/EAP119-1-4-1/canvas/9",
-    "resource" : {
-      "@type" : "cnt:ContentAsText",
-      "format": "text/plain",
-      "chars" : "test"
-    }
-  }]
+    "@context": "http://iiif.io/api/search/0/context.json",
+    "@id": "https://tillgrallert.github.io/test-iiif/v2/annotations/oclc_4770057679-i_13-p_9.annotationList.json",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@id": "https://tillgrallert.github.io/test-iiif/oclc_4770057679-i_13-p_9.TEIP5.annotation.json/anno-9",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://eap.bl.uk/archive-file/EAP119-1-4-1/canvas/9",
+            "resource": {
+                "@type": "cnt:ContentAsText",
+                "chars": "test",
+                "format": "text/plain"
+            }
+        }
+    ]
 }
