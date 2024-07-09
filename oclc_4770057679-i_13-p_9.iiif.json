@@ -20,8 +20,9 @@
   ],
   "annotations": [
     {
-      "id": "https://tillgrallert.github.io/test-iiif/oclc_4770057679-i_13-p_9.annotation.json",
-      "type": "AnnotationPage"
+      "@id": "https://tillgrallert.github.io/test-iiif/oclc_4770057679-i_13-p_9.annotation.json",
+      "@type": "sc:AnnotationList",
+      "label": "My fantastic annotations"
     }
 ]
 }
