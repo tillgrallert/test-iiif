@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://tillgrallert.github.io/test-iiif/oclc_4770057679-i_13-p_9.annotation.json",
+  "id": "https://tillgrallert.github.io/test-iiif/v3/annotation/oclc_4770057679-i_13-p_9.annotation.json",
   "type": "AnnotationPage",
   "items": [
     {
