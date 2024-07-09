@@ -6,11 +6,11 @@
     "@id" : "https://tillgrallert.github.io/test-iiif/oclc_4770057679-i_13-p_9.TEIP5.annotation.json/anno-9",
     "@type" : "oa:Annotation",
     "motivation" : "sc:painting",
+    "on" : "https://eap.bl.uk/archive-file/EAP119-1-4-1/canvas/9",
     "resource" : {
       "@type" : "cnt:ContentAsText",
       "format": "text/plain",
       "chars" : "test"
-    },
-    "on" : "https://eap.bl.uk/archive-file/EAP119-1-4-1/canvas/9#xywh=0,0,1534,2468",
+    }
   }]
 }
