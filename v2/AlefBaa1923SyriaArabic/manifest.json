@@ -1,0 +1,151 @@
+{
+  "@context": "https://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic/manifest.json",
+  "@type": "sc:Manifest",
+  "attribution": "The Internet Archive",
+  "description": "",
+  "label": "Alef Baa , 1923, Syria, Arabic",
+  "logo": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReMN4l9cgu_qb1OwflFeyfHcjp8aUfVNSJ9ynk2IfuHwW1I4mDSw",
+  "metadata": [
+    {
+      "label": "title",
+      "value": "Alef Baa , 1923, Syria, Arabic"
+    }
+  ],
+  "related": "http://archive.org/details/AlefBaa1923SyriaArabic",
+  "seeAlso": "https://archive.org/metadata/AlefBaa1923SyriaArabic",
+  "sequences": [
+    {
+      "@context": "https://iiif.io/api/image/2/context.json",
+      "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic/canvas/default",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$0/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 4672,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$0/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$0/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$0/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4672,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$0",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 3296
+              }
+            }
+          ],
+          "label": "p. ",
+          "width": 3296
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$1/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 4672,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$1/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$1/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$1/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4672,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$1",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 3296
+              }
+            }
+          ],
+          "label": "p. ",
+          "width": 3296
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$2/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 4672,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$2/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$2/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$2/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4672,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$2",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 3296
+              }
+            }
+          ],
+          "label": "p. ",
+          "width": 3296
+        },
+        {
+          "@context": "https://iiif.io/api/presentation/2/context.json",
+          "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$3/canvas",
+          "@type": "sc:Canvas",
+          "description": "",
+          "height": 4672,
+          "images": [
+            {
+              "@context": "https://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$3/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$3/annotation",
+              "resource": {
+                "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$3/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4672,
+                "service": {
+                  "@context": "https://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.archivelab.org/iiif/AlefBaa1923SyriaArabic$3",
+                  "profile": "https://iiif.io/api/image/2/profiles/level2.json"
+                },
+                "width": 3296
+              }
+            }
+          ],
+          "label": "p. ",
+          "width": 3296
+        }
+      ],
+      "label": "default"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://ia600807.us.archive.org/BookReader/BookReaderPreview.php?id=AlefBaa1923SyriaArabic&subPrefix=Apr%2001%201923%2C%20%D8%A3%D9%84%D9%81%20-%20%D8%A8%D8%A7%D8%A1%20%28Alef%20Baa%29%2C%20%23780%2C%20Syria%20%28ar%29&itemPath=/28/items/AlefBaa1923SyriaArabic&server=ia600807.us.archive.org&page=preview&"
+  },
+  "viewingHint": "paged"
+}
