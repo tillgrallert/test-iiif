@@ -109,14 +109,14 @@
                             }
                         }
                     ],
-                    "otherContent": [
-    {
-        "@id": "https://tillgrallert.github.io/test-iiif/v2/annotations/oclc_4770057679-i_13-p_9.annotation.json",
-        "@type": "sc:AnnotationList",
-        "label": "p9"
-    }
-],
                     "label": "9",
+                    "otherContent": [
+                        {
+                            "@id": "https://tillgrallert.github.io/test-iiif/v2/annotations/oclc_4770057679-i_13-p_9.annotation.json",
+                            "@type": "sc:Annotation",
+                            "label": "p9"
+                        }
+                    ],
                     "width": 1753
                 },
                 {
