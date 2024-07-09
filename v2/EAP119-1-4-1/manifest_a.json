@@ -1,10 +1,10 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://eap.bl.uk/archive-file/EAP119-1-4-1",
+    "@id": "http://www.sitzextase.de/test-iiif/v2/EAP119-1-4-1/manifest_a.json",
     "@type": "sc:Manifest",
     "attribution": "Except as otherwise permitted under your national copyright law this material may not be copied or distributed further",
     "description": "Digital copy of volume 2, containing 12 issues covering the period February 1907-January 1908. A table of contents can be found in the back few pages of the volume. Page numbers run consecutively through the volume, and individual issues can be identified by the following page numbers. February 1907 pp. 1-56. March 1907 pp. 57-120. April 1907 pp. 121-192. May 1907 pp. 193-256. June 1907 pp. 257-304. July 1907 pp. 305-352. August 1907 pp. 353-400. September 1907 pp. 401-448. October 1907 pp. 449-504. November 1907 pp. 505-560. December 1907 pp. 561-616. January 1908 pp. 617-680.",
-    "label": "المقتبس al-Muqtabas Volume 2 (1907-1908)المقتبس al-Muqtabas Volume 2 (1907-1908)",
+    "label": "al-Muqtabas Volume 2 (1907-1908): with annotations",
     "license": "",
     "logo": "https://eap.bl.uk/themes/custom/eap/images/bl_logo_100.gif",
     "metadata": [
